@@ -9,7 +9,7 @@
 - [Questions for TAs](#questions-for-tas)
 - [Authors](#authors)
 
-## Abstract 📝
+## 📝Abstract 
 Nowadays, drinking beer has become a global social habit, whether it be for parties, football games or meeting with friends. In order to answer this demand, the market has become very attractive and diverse with breweries all around the world producing a wide variety of beer styles. This wide range of offer makes it more difficult for costumers to find a style of beer they might like. Being aware of this issue and with the aim to improve their customers’ satisfaction, an international supermarket chain called upon our data scientists’ team to help better organize their beer shelves. Our strategy is to associate each row of the shelves to a customers’ level of expertise and the type of beer consumer they are. Then, for each of these customers’ categories, the most appreciated styles of beers are promoted with a description of their main features. Besides, in order to satisfy the firms’ multidomestic strategy, the arrangement of the beer shelves is customized according to the local tastes and preferences and their evolution over time. Thus, our project helps improving customers’ satisfaction by guiding them in their choice of beer style. 
 
 ## Research questions ❓
