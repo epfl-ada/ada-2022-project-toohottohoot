@@ -1,4 +1,4 @@
-# The Best Beer I've Ever Bought / Have You Tried This Amazing Beer? / Beer-inder / Beervise: Pick the right beer for you
+# The Best Beer I've Ever Bought / Have You Tried This Amazing Beer? / Beer-inder / Beervise: Pick the right beer for you/ Try it !/ 
 
 ## Table of Contents
 - [Abstract](#abstract)
