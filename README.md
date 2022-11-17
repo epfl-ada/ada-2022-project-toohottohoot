@@ -26,8 +26,7 @@ Nowadays, drinking beer has become a global social habit, whether it be for part
 | ---------------------- | ------------------------- |
 | From - To      | Task |
 
-
-##🤝 Team Organization 
+## 🤝 Team Organization 
 A list of internal milestones up until project Milestone P3.
 
 ## ❔ Questions for TAs 
