@@ -1,6 +1,6 @@
-# The Best Beer I've Ever Bought / Have You Tried This Amazing Beer? / Beer-inder / Beervise: Pick the right beer for you/ Try it !/ 
+# The Best Beer I've Ever Bought / Have You Tried This Amazing Beer? / Beer-inder / Beervise: Pick the right beer for you/ Try it !/ Untastd / Taste it your way
 
-## Table of Contents
+## Table of Contents 
 - [Abstract](#abstract)
 - [Research questions](#research-questions)
 - [Data](#data)
