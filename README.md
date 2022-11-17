@@ -3,6 +3,7 @@
 ## Table of Contents 
 - [Abstract](#abstract)
 - [Research questions](#research-questions)
+- [Data](#Data)
 - [Methods](#methods)
 - [Proposed timeline](#proposed-timeline)
 - [Organization within the team](#organization-within-the-team)
@@ -17,6 +18,9 @@ Nowadays, drinking beer has become a global social habit, whether it be for part
 2. From the reviews, what are the adjectives that best describe each beer style?
 3. Is the taste of a user influenced by his country of origin or his expertise? 
 4. Is popularity of a beer style evolving with time? (In terms of consumption and appreciation)
+
+## 💾 Data
+(if any): List the additional dataset(s) you want to use (if any), and some ideas on how you expect to get, manage, process, and enrich it/them. Show us that you’ve read the docs and some examples, and that you have a clear idea on what to expect. Discuss data size and format if relevant. It is your responsibility to check that what you propose is feasible.
 
 ## 📊 Methods 
 
