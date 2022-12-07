@@ -8,7 +8,7 @@ PROCESSED_DATA_FOLDER = '../data/processed/'
 
 def parse_ratings(path):
     
-    ratings_file = open(path)
+    ratings_file = open(path, encoding='utf-8')
     
     rating, ratings = {}, []
     review, reviews = {}, []
